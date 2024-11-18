@@ -2,9 +2,9 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Machine learning Project**
 - 🔭 I’m working on [Project XYZ](https://github.com/yourusername/projectxyz)
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **Chandrakantripathi8890@gmail.com**
 
 ## Skills
 - **Languages:** Python, JavaScript, C++
